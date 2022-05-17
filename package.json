@@ -5,7 +5,7 @@
   "dependencies": {
     "@elastic/charts": "^25.0.1",
     "@elastic/datemath": "^5.0.3",
-    "@elastic/eui": "43.0.0",
+    "@elastic/eui": "57.0.0",
     "@emotion/react": "^11.7.0",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
