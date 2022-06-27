@@ -1333,10 +1333,10 @@
   dependencies:
     tslib "^1.9.3"
 
-"@elastic/eui@57.0.0":
-  version "57.0.0"
-  resolved "https://registry.yarnpkg.com/@elastic/eui/-/eui-57.0.0.tgz#86d43e27196f9997ef44d2a4c701d092ce99e132"
-  integrity sha512-VBgW6Pr0JJB3JhJ59MV8guxb2v4Gd3SJEmsMGKGyIY+KcvSMWbVEGa44Ep12VAJYynIA05Z3OXXc/ge5dMycpA==
+"@elastic/eui@60.0.0":
+  version "60.0.0"
+  resolved "https://registry.yarnpkg.com/@elastic/eui/-/eui-60.0.0.tgz#7b2cc45b4305abb0fb7081bd2adbd3ab41e55e8a"
+  integrity sha512-TLYttLSBrTw3QloXjRXrTkHZLSmTf3YNi0rakWslG25IkFkllY9yGSKjEUNBLHDDm0SfV9aBReM7Vc9Whzhw+g==
   dependencies:
     "@types/chroma-js" "^2.0.0"
     "@types/lodash" "^4.14.160"
@@ -15017,10 +15017,8 @@ watchpack@^1.7.4:
   resolved "https://registry.yarnpkg.com/watchpack/-/watchpack-1.7.5.tgz#1267e6c55e0b9b5be44c2023aed5437a2c26c453"
   integrity sha512-9P3MWk6SrKjHsGkLT2KHXdQ/9SNkyoJbabxnKOoJepsvJjJG8uYTR3yTPxPQvNDI3w4Nz1xnE0TLHK4RIVe/MQ==
   dependencies:
-    chokidar "^3.4.1"
     graceful-fs "^4.1.2"
     neo-async "^2.5.0"
-    watchpack-chokidar2 "^2.0.1"
   optionalDependencies:
     chokidar "^3.4.1"
     watchpack-chokidar2 "^2.0.1"
